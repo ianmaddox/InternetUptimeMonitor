@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "Monitors the internet, buffers uptime data, publishes it to said internet.",
   "main": "index.js",
-  "repository": "git@github.com:ianmaddox/InternetUptimeMonitor.git",
+  "repository": "git@github.com:ianmaddox/internet-connection-logger.git",
   "dependencies": {
     "is-online": "^5.1.1",
     "moment-timezone": "^0.5.1",
