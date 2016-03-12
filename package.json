@@ -1,0 +1,19 @@
+{
+  "name": "InternetUptimeMonitor",
+  "version": "1.0.0",
+  "description": "Monitors the internet, buffers uptime data, publishes it to said internet.",
+  "main": "internetmon.js",
+  "repository": "git@github.com:ianmaddox/InternetUptimeMonitor.git",
+  "dependencies": {
+    "is-online": "^5.1.1",
+    "moment-timezone": "^0.5.1",
+    "rest": "^1.3.1",
+    "timr": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ian Maddox",
+  "license": "MIT"
+}

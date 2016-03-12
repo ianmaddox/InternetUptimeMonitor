@@ -1,0 +1,5 @@
+{
+	"apiKey":"API_KEY_HERE",
+	"checkFrequencySeconds":60,
+	"publishFrequencySeconds":60
+}
